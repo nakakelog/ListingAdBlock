@@ -35,6 +35,6 @@ https://user-images.githubusercontent.com/104946009/171983008-f9ce76a6-ea3c-4b12
 
 <img width="235" alt="スクリーンショット 2022-06-04 13 28 08" src="https://user-images.githubusercontent.com/104946009/171983372-6af6961c-1311-4fed-9492-aacb59c18372.png">
 
-**・拡張機能ページにこの拡張機能が表示されたら導入完了です。**
+**・拡張機能ページにこの拡張機能が表示されたら導入完了です🎉**
 
 <img width="417" alt="スクリーンショット 2022-06-04 13 28 49" src="https://user-images.githubusercontent.com/104946009/171983427-c8d7c556-4395-404c-a6a0-76ff893f93ca.png">
